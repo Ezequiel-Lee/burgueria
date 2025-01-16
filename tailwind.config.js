@@ -5,11 +5,7 @@ module.exports = {
         fontFamily: {
             sans: ["Roboto", "sans-serif"],
         },
-        extend: {
-            backgroundImage: {
-                "home": "url('/assets/img/bg.png')"
-            }
-        },
+        extend: {},
     },
     plugins: [],
 };
